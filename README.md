@@ -33,3 +33,14 @@ and for chart/table
 | wang ao tian | chinese academy of science |
 | C-c C-s      | you can set font here      |
 |              |                            |
+
+
+# how to use it 
+
+emacs and vim and markdown and git that are all i've used 
+
+many packages are used to help to increase the proficiency
+
+also it can wirte equations 
+$ x+y=1$
+$$x-y^2=2$$
