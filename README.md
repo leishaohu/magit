@@ -13,3 +13,23 @@ then some magit shortkeys
 | P         | push     |
 | F         | pull     |
 |           |          |
+
+
+# some markdown yufa 
+
+**bold font** *italy font* 
+
+> block quote
+
+> you can wirte python here
+
+
+`some format`
+
+and for chart/table
+
+| shortkey     | function                   |
+|--------------|----------------------------|
+| wang ao tian | chinese academy of science |
+| C-c C-s      | you can set font here      |
+|              |                            |
